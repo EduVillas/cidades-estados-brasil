@@ -7,8 +7,9 @@
   Até presente momento, eu testei os scripts somente no MySQL. Em breve estarei fazendo testes em outros SGBDs. Sinta-se a vontade para fazer quaisquer alterações. Para interação com o banco de dados, utilizei o Dbeaver no Windows e o MySQL Workbench no Ubuntu.
  
 ## Fonte
-  IBGE
-  MySQL Docs
+* IBGE (https://sidra.ibge.gov.br/territorio)
+* MySQL Docs (https://dev.mysql.com/doc/)
 
 Sucesso a todos,
+
 @nicklleite
